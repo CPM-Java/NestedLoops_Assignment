@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=java.lang.String\ triangle_b(int)
+comment0.text=\n\ nested\ loops\ making\ a\ triangluar\ patten.\n\ \n\ @param\ \ x\ \ \ side\ length\n\ @return\ \ \ \ \ String\ containing\ the\ specified\ pattern\ \n
+comment1.params=x
+comment1.target=java.lang.String\ triangle_d(int)
+comment1.text=\n\ nested\ loops\ making\ a\ triangular\ patten.\n\ \n\ @param\ \ x\ \ \ side\ length\n\ @return\ \ \ \ \ String\ containing\ the\ specified\ pattern\ \n
+comment2.params=sideLength
+comment2.target=java.lang.String\ drawEmptySquare(int)
+comment2.text=\n\ nested\ loops\ making\ a\ square\ outline\ patten.\n\ \n\ @param\ \ sideLength\ \ \ side\ length\n\ @return\ \ \ \ \ String\ containing\ the\ specified\ pattern\ \n
+comment3.params=sideLength
+comment3.target=java.lang.String\ drawRhombus(int)
+comment3.text=\n\ nested\ loops\ making\ a\ rhombus\ patten.\n\ \n\ @param\ \ sideLength\ \ \ side\ length\n\ @return\ \ \ \ \ String\ containing\ the\ specified\ pattern\ \n
+numComments=4
